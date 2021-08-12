@@ -15,6 +15,7 @@ public class Principal {
 		String nome = in.nextLine();
 		System.out.printf("Ola %s! \n", nome);
 		System.out.printf("Seja bem vindo!!!");
+		System.out.printf("Em que posso ajudar?");
 	}
 
 }
